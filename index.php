@@ -28,9 +28,11 @@
         </nav>
     </header><!-- FINAL HEADER -->
     
-    <section id="content" role="main">
-    
-    </section><!-- FINAL CONTENT -->  
+    <div role="main">
+    	<section id="content">
+    	
+    	</section><!-- FINAL CONTENT --> 
+    </div> 
 </div>
 
 <div class="bg-rodape">
