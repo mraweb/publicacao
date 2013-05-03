@@ -15,7 +15,7 @@
 <div class="bg-home">
     <header role="banner">
         <h1><a href="/" title="" class="hidetxt"></a></h1>
-        
+
         <nav role="navigation">
             <ul>
                 <li><a href="/" title="Home" class="btHome">Home</a></li>
@@ -27,12 +27,12 @@
             </ul>
         </nav>
     </header><!-- FINAL HEADER -->
-    
-    <div role="main">
+
+    <main role="main">
     	<section id="content">
-    	
-    	</section><!-- FINAL CONTENT --> 
-    </div> 
+
+    	</section><!-- FINAL CONTENT -->
+    </main>
 </div>
 
 <div class="bg-rodape">
@@ -42,7 +42,7 @@
 
 
 
-        
+
         <p class="selo"><a href="http://www.ao5.com.br" title="AO5 - Criação de Sites" class="ao5 hidetxt" rel="external">AO5 - Criação de Sites</a></p>
     </footer>
 </div>
